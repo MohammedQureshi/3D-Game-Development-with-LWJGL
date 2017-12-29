@@ -1,0 +1,9 @@
+ * Grass
+ * Sand
+ * Stone
+ * Cobble
+ * Gravel
+ * Paths
+ * Roads
+ * Stone
+ * Marble

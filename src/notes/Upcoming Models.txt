@@ -1,0 +1,9 @@
+ * Houses
+ * SkyScrapers
+ * Shops
+ * Weapons
+ * Tools
+ * Villages
+ * Towns
+ * Markets
+ * Armour

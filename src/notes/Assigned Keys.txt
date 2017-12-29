@@ -1,0 +1,12 @@
+ * F = Fast Forward Time - Admin Tools
+ * B = Super Speed Walk - Admin Tools
+ * R = Get Location - Admin Tools
+ 
+ -In Game Keys
+ * W = Forward
+ * S = Backward
+ * A = Left Rotation
+ * D = Right Rotation
+ * LShift = Slow Walk
+ * RShift = Fast Walk
+ * C = Front Camera
